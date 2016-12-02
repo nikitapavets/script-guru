@@ -7,6 +7,7 @@
 1. `sudo apt-get install nodejs`
 1. `sudo apt-get install npm`
 1. `sudo npm install -g gulp`
+1. `ln -s /usr/bin/nodejs /usr/bin/node`
 
 ### Install project
 1. `git clone https://github.com/nikitapavets/script-guru.git`
